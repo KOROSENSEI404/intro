@@ -1,0 +1,38 @@
+body
+{
+  background-color: #FCF8E8;
+}
+
+hr{
+  background-color: #FCF8E8;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 15px;
+  width: 10%;
+}
+
+h1{
+  color: #F900BF;
+}
+h3{
+  color: #9900F0;
+}
+p{
+  color: #4700D8;
+}
+
+.cat{
+  height: 250px;
+}
+.peach{
+  background-color: #FCF8E8;
+  height: 100px;
+}
+
+img:hover{
+  background-color: blue;
+}
+
+#heading{
+  color: #F900BF;
+}
